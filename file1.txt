@@ -1,3 +1,6 @@
 This is class activity 5.
 
 adding text from branch-1...
+Adding some text...
+
+Adding text from local repository.
