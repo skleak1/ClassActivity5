@@ -1,3 +1,5 @@
 This is class activity 5.
 
 Adding some text...
+
+Adding text from local repository.
